@@ -1,0 +1,14 @@
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.exe
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.deps.json
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.json
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.dev.json
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.dll
+D:\Soniya\Launchcode\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.pdb
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csproj.AssemblyReference.cache
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfoInputs.cache
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfo.cs
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csproj.CoreCompileInputs.cache
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.dll
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.pdb
+D:\Soniya\Launchcode\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.genruntimeconfig.cache
