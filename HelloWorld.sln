@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "..\NumericTypes\NumericTypes.csproj", "{4F20AE1F-E308-47AB-AC2D-A48C32DF4BDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOnNumericTypes", "MoreOnNumericTypes\MoreOnNumericTypes.csproj", "{9BDD5F72-0091-4E6E-81D9-D2BCCC157DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4F20AE1F-E308-47AB-AC2D-A48C32DF4BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F20AE1F-E308-47AB-AC2D-A48C32DF4BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F20AE1F-E308-47AB-AC2D-A48C32DF4BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDD5F72-0091-4E6E-81D9-D2BCCC157DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDD5F72-0091-4E6E-81D9-D2BCCC157DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDD5F72-0091-4E6E-81D9-D2BCCC157DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDD5F72-0091-4E6E-81D9-D2BCCC157DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
