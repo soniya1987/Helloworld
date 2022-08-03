@@ -1,0 +1,14 @@
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Soniya\Launchcode\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Soniya\Launchcode\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
